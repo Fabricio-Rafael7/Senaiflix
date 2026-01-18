@@ -53,7 +53,7 @@
                                 <li><a href="index.php?pagina=categories">Categorias <span class="arrow_carrot-down"></span></a>
                                     <ul class="dropdown">
                                         <li><a href="index.php?pagina=categories">Categorias</a></li>
-                                        <li><a href="index.php?pagina=signup">Cadastre-se</a></li>
+                                        <li><a href="index.php?pagina=signup">Cadastre-see</a></li>
                                         <li><a href="index.php?pagina=login">Login</a></li>
                                         <li><a href="index.php?pagina=assinaturas_cadastro">Assine</a></li>
                                     </ul>
